@@ -1,13 +1,8 @@
 # OPEN24
 1er dépot
-<<<<<<< HEAD
+Pas oublier d'enregistrer le fichier
 
-Test ajouter texte
+Test n°2 
+blabla
 
-##quelque commandes de bases
-
-git add README.md
-
-un test blablabla
-
-
+reretest
