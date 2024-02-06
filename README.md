@@ -1,5 +1,6 @@
 # OPEN24
 1er dépot
+<<<<<<< HEAD
 
 Test ajouter texte
 
@@ -8,4 +9,5 @@ Test ajouter texte
 git add README.md
 
 un test blablabla
+
 
