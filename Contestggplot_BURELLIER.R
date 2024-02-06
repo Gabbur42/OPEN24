@@ -1,9 +1,6 @@
-library(dplyr)
-data("titanic")
-Titanic
-
-data("economics")
-economics
+##Gabriel Burellier
+##06/01/2024
+##CONTESTGGPLOT
 
 ############DIAMONDS##################
 data("diamonds")
@@ -19,6 +16,7 @@ ggplot(data = diamonds,
        mapping = aes(x = price, y = depth)) +
   geom_point() + geom_smooth(method="lm") + facet_wrap(vars(cut)) + geom_ribbon(aes(ymin = 59, ymax = 63,col="red",fill=NULL)) + theme_light()
 #En général, plus les diamants sont collectés proche de 62m de profondeur, plus ils sont facilement travaillable (coupe idéal)#En général, plNULLus les diamants sont collectés proche de 62m de profondeur, plus ils sont facilement travaillable (coupe idéal)
+#J'aurais aimé mettre en transparent le geom_ribbon et simplement laissé les bordures
 
 ###à améliorer
 ##ggplot(data = diamonds, 
@@ -26,11 +24,13 @@ ggplot(data = diamonds,
   facet_grid(rows = vars(cut))+
   theme_bw()
 
-##marche mais pas pratique
+##marche mais pas pratique, je voulais voir l'influence du nombre de carats avec la "facilité" et la réussite de la coupe; 
+##j'aurais aimé faire de plus petits groupes (entre 0 et 0.2; entre 0.2 et 0.4; ...)
 ggplot(data = diamonds, 
        mapping = aes(x = carat))+ geom_histogram(bins = 10)+scale_fill_brewer(palette = "green") +
   facet_grid(rows = vars(cut))+
   theme_bw()
+
 
 
 ggplot(diamonds, aes(x=color, y = carat)) + geom_boxplot()  
