@@ -12,24 +12,47 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Introduction
 
-## Principaux 
+Le secteur agricole subit une pression importante liées aux défis environnementaux et économique. Depuis quelques années, les OAD (outils d’aides à la décision) et le numérique commencent à se positionner sur le secteur agricole dans l’espoir de devenir des leviers essentiels voir indispensable pour assurer la durabilité et la souveraineté alimentaire. Ces solutions numériques se veulent performantes, adaptable aux pratiques mis en place par les agriculteurs ; mais surtout rentable économiquement. Les différentes manifestations de ce début d’année 2024 soulignent particulièrement ce dernier aspect. Le métier d’agriculteur évolue au fil du temps pour répondre aux nouvelles exigences en terme de qualité, de quantité, d’environnement, … .
+L'intégration des OAD, combinée à l'utilisation stratégique des technologies numériques, ouvre la voie à une agriculture dite "de précision", où chaque décision peut être basée sur des données précises et actualisées. Ces utilisations devraient permettent d’optimiser l’utilisation des ressources (en eau par exemple), réduire l’utilisation de produits phytosanitaire (augmentant la marge brute sur les cultures mais aussi réduisant les impacts négatifs sur la biodiversité), … Leurs utilisations semblent donc bénéfique pour le monde agricole et pour les différents qui interagissent avec ce dernier.
 
-### test
+Ce document vise à explorer le rôle et l'impact des OAD et du numérique dans l'agriculture d'aujourd'hui et de demain. À travers une analyse des bénéfices apportés par ces outils, ainsi que des obstacles à leur intégration, on cherche à comprendre comment ils façonnent l'avenir de l'agriculture et quelles sont leurs perspectives de développement pour maximiser leur potentiel.
 
-#### TESTTITRE
+## I. Comprendre les Outils d'Aide à la Décision (OAD) dans l'Agriculture
+
+### A. Définition et catégorisation des OAD et autres outils numériques
 
 
+### B. Exemples d'OAD couramment utilisés par les agriculteurs
+
+
+## II. L'Impact du Numérique sur l'Agriculture
+
+### A. L'essor des technologies numériques et leur adoption en agriculture
+
+### B. Analyse des avantages du numérique pour une agriculture précise
+1. Optimisation de l'utilisation des ressources 
+2. Amélioration de la productivité et de la rentabilité 
+3. Contribution à la durabilité environnementale
+
+## IV. Défis et Limitations des OAD et du Numérique dans les milieux agricoles
+
+### A. Les barrières technologiques et le manque d'infrastructure numérique
+
+### B. La formation et l'acceptation par les agriculteurs
+
+### C. Les questions de sécurité des données et de vie privée
+
+
+### V. Perspectives Futures et Potentiel de Croissance
+    Les tendances émergentes en matière d'OAD et de numérique en agriculture
+
+### Conclusion
+
+ principaux points abordés + l'importance des OAD et du numérique pour l'avenir de l'agriculture.
+action coordonnée entre les acteurs du secteur pour transition réussie vers agri + intelligente et durable.
 
 ```{r cars}
 summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
 ```
 
 
