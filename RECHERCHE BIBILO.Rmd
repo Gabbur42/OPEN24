@@ -66,4 +66,19 @@ L'importance des outils d'aide à la décision (OAD) et du numérique dans l'agr
 Cependant, le chemin vers une intégration complète et efficace des OAD et du numérique dans l'agriculture est semé d'embûches. Pour surmonter ces obstacles, une action coordonnée entre les différents acteurs du secteur agricole est essentielle. Cela inclut les gouvernements, les entreprises technologiques et de conseils, les organisations agricoles, et les agriculteurs eux-mêmes.
 Ensemble, ils pourront améliorer la vie de chacun.
 
+## ***Bibliographie***
+
+Mathilde Closset, 2024. Pilotage des interventions : comment ça marche un outil d’aide à la décision. ARVALIS [en ligne]. Disponible à l’adresse : https://www.arvalis.fr/infos-techniques/pilotage-des-interventions-comment-ca-marche-un-outil-daide-la-decision
+
+FRANCE, Chambres d’agriculture, 2024. Accompagner le développement numérique de l’agriculture dans les territoires. [en ligne]. Disponible à l’adresse : https://chambres-agriculture.fr/actualites/toutes-les-actualites/detail-de-lactualite/actualites/accompagner-le-developpement-numerique-de-lagriculture-dans-les-territoires/
+
+BELLON-MAUREL, Véronique et HUYGHE, Christian, 2016. L’innovation technologique dans l’agriculture. Géoéconomie. 2016. Vol. 80, n° 3, pp. 159‑180. DOI 10.3917/geoec.080.0159. 
+OCDE, 2017. La technologie et le numérique dans l’agriculture - OCDE. [en ligne]. Disponible à l’adresse : https://www.oecd.org/fr/agriculture/sujets/technologie-et-agriculture-numerique/
+
+NUM, France, JUIN 2023. Comment mettre le numérique au service de l’agriculture pour mieux gérer son exploitation, de la production à la commercialisation ? francenum.gouv.fr [en ligne]. Disponible à l’adresse : https://www.francenum.gouv.fr/guides-et-conseils/strategie-numerique/comprendre-le-numerique/comment-mettre-le-numerique-au
+Toutes les régions
+
+Terres INOVIA, 2023. Actions Terres Inovia : exploiter les nouvelles technologies - Institutionnel. Terres Inovia [en ligne]. Disponible à l’adresse : https://www.terresinovia.fr/web/institutionnel/nos-actions/exploiter-les-outils-numeriques
+
+Chaick Saidou, 2016. Une feuille de route pour développer le numérique dans l’agriculture française. Ministère de l’Agriculture et de la Souveraineté alimentaire [en ligne]. Disponible à l’adresse : https://agriculture.gouv.fr/une-feuille-de-route-pour-developper-le-numerique-dans-lagriculture-francaise
 
